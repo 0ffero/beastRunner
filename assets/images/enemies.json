@@ -1,0 +1,460 @@
+{
+	"textures": [
+		{
+			"image": "enemies",
+			"format": "RGBA8888",
+			"size": {
+				"w": 296,
+				"h": 291
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dragon_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 79
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 144,
+						"h": 79
+					}
+				},
+				{
+					"filename": "dragon_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 79
+					},
+					"frame": {
+						"x": 2,
+						"y": 85,
+						"w": 144,
+						"h": 79
+					}
+				},
+				{
+					"filename": "dragon_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 144,
+						"h": 79
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 144,
+						"h": 79
+					},
+					"frame": {
+						"x": 150,
+						"y": 2,
+						"w": 144,
+						"h": 79
+					}
+				},
+				{
+					"filename": "bat_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 77
+					},
+					"frame": {
+						"x": 150,
+						"y": 85,
+						"w": 32,
+						"h": 77
+					}
+				},
+				{
+					"filename": "bat_4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 77
+					},
+					"frame": {
+						"x": 186,
+						"y": 85,
+						"w": 32,
+						"h": 77
+					}
+				},
+				{
+					"filename": "demon_bat_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 77
+					},
+					"frame": {
+						"x": 222,
+						"y": 85,
+						"w": 32,
+						"h": 77
+					}
+				},
+				{
+					"filename": "demon_bat_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 77
+					},
+					"frame": {
+						"x": 258,
+						"y": 85,
+						"w": 32,
+						"h": 77
+					}
+				},
+				{
+					"filename": "demon_bat_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 77
+					},
+					"frame": {
+						"x": 2,
+						"y": 168,
+						"w": 32,
+						"h": 77
+					}
+				},
+				{
+					"filename": "demon_bat_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 77
+					},
+					"frame": {
+						"x": 38,
+						"y": 168,
+						"w": 32,
+						"h": 77
+					}
+				},
+				{
+					"filename": "demon_bat_4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 77
+					},
+					"frame": {
+						"x": 74,
+						"y": 168,
+						"w": 32,
+						"h": 77
+					}
+				},
+				{
+					"filename": "bat_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 77
+					},
+					"frame": {
+						"x": 110,
+						"y": 168,
+						"w": 32,
+						"h": 77
+					}
+				},
+				{
+					"filename": "bat_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 77
+					},
+					"frame": {
+						"x": 146,
+						"y": 168,
+						"w": 32,
+						"h": 77
+					}
+				},
+				{
+					"filename": "bat_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 77
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 77
+					},
+					"frame": {
+						"x": 182,
+						"y": 166,
+						"w": 32,
+						"h": 77
+					}
+				},
+				{
+					"filename": "dropper_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 218,
+						"y": 166,
+						"w": 30,
+						"h": 40
+					}
+				},
+				{
+					"filename": "dropper_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 28,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 28,
+						"h": 40
+					},
+					"frame": {
+						"x": 252,
+						"y": 166,
+						"w": 28,
+						"h": 40
+					}
+				},
+				{
+					"filename": "dropper_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 40
+					},
+					"frame": {
+						"x": 2,
+						"y": 249,
+						"w": 30,
+						"h": 40
+					}
+				},
+				{
+					"filename": "dropper_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 40
+					},
+					"frame": {
+						"x": 36,
+						"y": 249,
+						"w": 32,
+						"h": 40
+					}
+				},
+				{
+					"filename": "rock_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 72,
+						"y": 249,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "rock_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 108,
+						"y": 249,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "rock_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 144,
+						"y": 249,
+						"w": 32,
+						"h": 32
+					}
+				},
+				{
+					"filename": "rock_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 32
+					},
+					"frame": {
+						"x": 180,
+						"y": 249,
+						"w": 32,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}

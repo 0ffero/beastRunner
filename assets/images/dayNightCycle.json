@@ -1,0 +1,208 @@
+{
+	"textures": [
+		{
+			"image": "dayNightCycle",
+			"format": "RGBA8888",
+			"size": {
+				"w": 972,
+				"h": 732
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "dayNight_0",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 240
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 320,
+						"h": 240
+					}
+				},
+				{
+					"filename": "dayNight_1",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 240
+					},
+					"frame": {
+						"x": 2,
+						"y": 246,
+						"w": 320,
+						"h": 240
+					}
+				},
+				{
+					"filename": "dayNight_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 240
+					},
+					"frame": {
+						"x": 326,
+						"y": 2,
+						"w": 320,
+						"h": 240
+					}
+				},
+				{
+					"filename": "dayNight_3",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 240
+					},
+					"frame": {
+						"x": 326,
+						"y": 246,
+						"w": 320,
+						"h": 240
+					}
+				},
+				{
+					"filename": "dayNight_4",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 240
+					},
+					"frame": {
+						"x": 2,
+						"y": 490,
+						"w": 320,
+						"h": 240
+					}
+				},
+				{
+					"filename": "dayNight_5",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 240
+					},
+					"frame": {
+						"x": 326,
+						"y": 490,
+						"w": 320,
+						"h": 240
+					}
+				},
+				{
+					"filename": "dayNight_6",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 320,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 320,
+						"h": 240
+					},
+					"frame": {
+						"x": 650,
+						"y": 2,
+						"w": 320,
+						"h": 240
+					}
+				},
+				{
+					"filename": "sun",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 54
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 54
+					},
+					"frame": {
+						"x": 650,
+						"y": 246,
+						"w": 54,
+						"h": 54
+					}
+				},
+				{
+					"filename": "moon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 52,
+						"h": 53
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 52,
+						"h": 53
+					},
+					"frame": {
+						"x": 708,
+						"y": 246,
+						"w": 52,
+						"h": 53
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
